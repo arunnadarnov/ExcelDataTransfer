@@ -1,0 +1,8 @@
+[
+    {
+        "source_file": "C:\\Arun\\scripts\\python\\RunMacro\\InputFiles\\ShiftReport 0313202306-00.xlsx",
+        "source_sheet": "Mar-13-2023",
+        "destination_file": "C:\\Arun\\scripts\\python\\RunMacro\\ACD Data Analysis Tools 2023A.xlsm",
+        "destination_sheet": "Data"
+    }
+]
