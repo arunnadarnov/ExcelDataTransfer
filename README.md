@@ -9,9 +9,11 @@ The `ExcelDataTransfer` class in the script reads a JSON configuration file, whi
 ## Directory Structure
 
 The project should have the following structure:
-Application\
-    ConfigFiles\config.json
-    ExcelDataTransfer.py
+```markdown
+* Application/
+    * ConfigFiles/
+        * config.json
+    * ExcelDataTransfer.py
 
 ## Getting Started
 
