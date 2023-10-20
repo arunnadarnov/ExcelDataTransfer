@@ -45,7 +45,7 @@ Update the `config.json` file in the `ConfigFiles` directory with your source an
     }
 ]
 
-In this example, data is read from the first sheet in `ShiftReport 0313202306-00.xlsx` and written to the `Data` sheet in `ACD Data Analysis Tools 2023A.xlsm` file.
+In this example, data is read from the first sheet in `source_file` and written to the `Data` sheet in `destination_file` file.
 
 ### Executing program
 1. Update the config.json file with your source and destination files and sheet names.
